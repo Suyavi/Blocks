@@ -1,0 +1,40 @@
+div{
+    height:100px;
+    background-color: rgb(255, 145, 2);
+}
+body{
+    margin: 00;
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    margin-top: 0;
+}
+
+.top-container{
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-width: 10px;
+    padding: 10px;
+    background-color:peachpuff;
+}
+
+.middle-container{
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-width: 20px;
+    padding: 10px;
+    background-color:rgb(234, 250, 5);
+    margin-left: 240px;
+}
+
+.bottom-container{
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-width: 10px;
+    padding: 10px;
+    background-color: red;
+    margin-left: 500px;
+}
